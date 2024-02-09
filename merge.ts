@@ -4,8 +4,7 @@ export function merge(collection_1: number[], collection_2: number[], collection
     while (i < collection_1.length || j < collection_2.length || k >= 0) {
         const current1 = collection_1[i] || Infinity;
         const current2 = collection_2[j] || Infinity;
-        const current3 = collection_3[k];
-    
+        const current3 = collection_3[k] ;
         const least = Math.min(current1, current2, current3);
     
         if (least === current1) {
@@ -15,6 +14,7 @@ export function merge(collection_1: number[], collection_2: number[], collection
         } else {
           k--;
         }
+
     
         mergeArray.push(least);
       }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1707505313378" clover="3.2.0">
-  <project timestamp="1707505313378" name="All files">
+<coverage generated="1707508731467" clover="3.2.0">
+  <project timestamp="1707508731467" name="All files">
     <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1" elements="27" coveredelements="27" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
     <file name="merge.ts" path="D:\typescript-unitTest\merge.ts">
       <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
@@ -11,12 +11,12 @@
       <line num="5" count="12" type="cond" truecount="2" falsecount="0"/>
       <line num="6" count="12" type="cond" truecount="2" falsecount="0"/>
       <line num="7" count="12" type="stmt"/>
-      <line num="9" count="12" type="stmt"/>
-      <line num="11" count="12" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="5" type="stmt"/>
-      <line num="13" count="7" type="cond" truecount="2" falsecount="0"/>
-      <line num="14" count="4" type="stmt"/>
-      <line num="16" count="3" type="stmt"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="10" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="12" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
       <line num="19" count="12" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
     </file>
