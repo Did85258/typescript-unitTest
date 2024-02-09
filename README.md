@@ -22,4 +22,11 @@ npm install -g jest
 }
 ```
 ## execute
-ทดสอบ unit test โดยใช้
+ทดสอบ unit test ด้วย jest
+```
+jest
+```
+ทดสอบ unit test และรายงานความครอบคลุม
+```
+jest --coverage
+```
